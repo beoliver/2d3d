@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-#  2d3d - merge two 3d images in a 3d space.
+#  2d3d - merge two 2d images in a 3d space.
 #  Copyright (C) 2015  Benjamin Edward Oliver
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
