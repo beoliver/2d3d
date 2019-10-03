@@ -15,7 +15,7 @@
 #  Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301  USA
 
 from random import shuffle
-from ntpath import basename
+from os.path import basename
 from sys import argv
 from PIL import Image
 from collections import defaultdict, namedtuple
